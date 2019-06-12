@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FlatScreen>
+  <Sensor>
+    <Pos.X>0</Pos.X>
+    <Pos.Y>1.22914815</Pos.Y>
+    <Pos.Z>0</Pos.Z>
+    <Rot.X>20.657711</Rot.X>
+    <Rot.Y>180</Rot.Y>
+    <Rot.Z>0.3698153</Rot.Z>
+  </Sensor>
+  <Screens>
+    <Screen>
+      <Pos.X>0</Pos.X>
+      <Pos.Y>1.00428843</Pos.Y>
+      <Pos.Z>0</Pos.Z>
+      <Rot.X>0</Rot.X>
+      <Rot.Y>0</Rot.Y>
+      <Rot.Z>0</Rot.Z>
+      <Size.X>0.477</Size.X>
+      <Size.Y>0.268</Size.Y>
+      <Size.Z>0.01</Size.Z>
+      <Display>1</Display>
+    </Screen>
+  </Screens>
+</FlatScreen>

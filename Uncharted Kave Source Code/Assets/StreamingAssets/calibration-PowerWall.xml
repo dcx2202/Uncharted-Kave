@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PowerWall>
+  <Sensor>
+	<Type>ARTTrack</Type>
+	<HeadTracker>true</HeadTracker>
+	<BodyID>2</BodyID>
+	<Stereo>true</Stereo>
+    <Pos.X>0</Pos.X>
+    <Pos.Y>0</Pos.Y>
+    <Pos.Z>0</Pos.Z>
+    <Rot.X>0</Rot.X>
+    <Rot.Y>180</Rot.Y>
+    <Rot.Z>0</Rot.Z>
+  </Sensor>
+  <Projectors>
+    <Projector>
+      <Pos.X>0</Pos.X>
+      <Pos.Y>2.4</Pos.Y>
+      <Pos.Z>0</Pos.Z>
+      <Rot.Y>0</Rot.Y>
+      <Rot.X>0</Rot.X>
+      <Rot.Z>0</Rot.Z>
+      <Fy>0</Fy>
+      <FOV>60</FOV>
+      <Display>1</Display>
+	</Projector>
+  </Projectors>
+  <Surfaces>
+    <Surface>
+      <Pos.X>0</Pos.X>
+      <Pos.Y>1.1</Pos.Y>
+      <Pos.Z>2.12</Pos.Z>
+      <Rot.X>-90</Rot.X>
+      <Rot.Y>0</Rot.Y>
+      <Rot.Z>0</Rot.Z>
+      <Size.X>6</Size.X> <!-- Width -->
+      <Size.Y>0.01</Size.Y>
+      <Size.Z>2.2</Size.Z><!-- Height -->
+      <Vertices>
+        <BottomLeft.X>0</BottomLeft.X>
+        <BottomLeft.Y>0</BottomLeft.Y>
+        <TopLeft.X>0</TopLeft.X>
+        <TopLeft.Y>1</TopLeft.Y>
+        <TopRight.X>1</TopRight.X>
+        <TopRight.Y>1</TopRight.Y>
+        <BottomRight.X>1</BottomRight.X>
+        <BottomRight.Y>0</BottomRight.Y>
+      </Vertices>
+      <Display>1</Display>
+    </Surface>
+  </Surfaces>
+</PowerWall>

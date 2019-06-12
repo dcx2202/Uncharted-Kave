@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: a5f81de0fb4e4a04e968cc1916ee68bc
+timeCreated: 1558632142
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back_leather
+    100002: //RootNode
+    100004: bag
+    100006: front_flap
+    100008: leather_piece_01
+    100010: leather_piece_02
+    100012: leather_piece_03
+    100014: strap_r
+    100016: strap_r1
+    100018: top_strap
+    400000: back_leather
+    400002: //RootNode
+    400004: bag
+    400006: front_flap
+    400008: leather_piece_01
+    400010: leather_piece_02
+    400012: leather_piece_03
+    400014: strap_r
+    400016: strap_r1
+    400018: top_strap
+    2300000: back_leather
+    2300002: bag
+    2300004: front_flap
+    2300006: leather_piece_01
+    2300008: leather_piece_02
+    2300010: leather_piece_03
+    2300012: strap_r
+    2300014: strap_r1
+    2300016: top_strap
+    3300000: back_leather
+    3300002: bag
+    3300004: front_flap
+    3300006: leather_piece_01
+    3300008: leather_piece_02
+    3300010: leather_piece_03
+    3300012: strap_r
+    3300014: strap_r1
+    3300016: top_strap
+    4300000: leather_piece_02
+    4300002: top_strap
+    4300004: front_flap
+    4300006: bag
+    4300008: strap_r
+    4300010: leather_piece_03
+    4300012: back_leather
+    4300014: leather_piece_01
+    4300016: strap_r1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
